@@ -7,7 +7,7 @@ title Windows Genuine Check
 @echo.  ^/ ^/^| ^|^_^| ^| ^|^_^| ^| ^|^_^| ^|
 @echo. ^/^_^_^_^_^\^_^_^_^/^|^_^_^_^_^/ ^\^_^_^_^/                        
 ECHO.
-slmgr.vbs /dli
+slmgr /xpr
 cls
 @echo.  ________  ____   ___
 @echo. ^|^_^_  ^/ ^_ ^\^|  ^_ ^\ ^/ ^_ ^\
